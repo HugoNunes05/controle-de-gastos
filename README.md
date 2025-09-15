@@ -101,4 +101,4 @@ DB_URL = postgresql://neondb_owner:npg_mXr0sYPZ6aIW@ep-late-bread-adlrm5t7-poole
 ## 👤 Autor
 
 Hugo Nunes
-GitHub: https://github.com/HugoNunes05/controle-de-gasto
+GitHub: https://github.com/HugoNunes05/controle-de-gastos
